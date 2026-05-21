@@ -1,38 +1,106 @@
-<h1 align="center">Hi 👋, I'm Riki subagja</h1>
+<h1 align="center">Hi 👋, I'm Riki Subagja</h1>
+
 <h3 align="center">Fullstack Web & Mobile Developer</h3>
 
-
-<br/>
-
 <p align="center">
-  <a href="https://github.com/Rikisubagja-14">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rikisubagja-14&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
-  </a>
+  I build modern web and mobile applications with clean architecture, scalable APIs, and user-friendly interfaces.
 </p>
 
 <p align="center">
-  <a href="https://github.com/Rikisubagja-14">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rikisubagja-14&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  <a href="mailto:riki43733@gmail.com">
+    <img src="https://img.shields.io/badge/Email-riki43733%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/riki-subagja-9b494a133/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Riki%20Subagja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/rikifriazka1409" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@rikifriazka1409-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/Rikisubagja-14"><img alt="" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Rikisubagja-14&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Rikisubagja-14"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Rikisubagja-14&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+---
 
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/riki-subagja-9b494a133/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/riki-subagja-9b494a133/" height="30" width="40" /></a>
-<a href="https://instagram.com/rikifriazka1409" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rikifriazka1409" height="30" width="40" /></a>
-   <a href="mailto:riki43733@gmail.com">
-    <img align="left" alt="Riki subagja | Gmail"  width="30" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />
+- 💻 Fullstack developer focused on web and mobile development
+- 🧩 Experienced in building dashboards, APIs, landing pages, and mobile apps
+- 📱 Interested in Flutter, React Native, and modern frontend ecosystems
+- 🛠️ Comfortable working with frontend, backend, databases, and deployment tools
+- 📫 Reach me at **riki43733@gmail.com**
+
+---
+
+## 🧰 Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,nuxt,redux,tailwind,bootstrap,sass" alt="Frontend Skills" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,go,java,codeigniter" alt="Backend Skills" />
+</p>
+
+### Mobile & Desktop
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,electron" alt="Mobile and Desktop Skills" />
+</p>
+
+### Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,firebase,docker,git,linux,figma" alt="Database and Tools" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Rikisubagja-14&theme=tokyonight&hide_border=true" 
+    alt="Riki Subagja GitHub Streak" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    width="49%" 
+    src="https://github-readme-stats.vercel.app/api?username=Rikisubagja-14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    alt="Riki Subagja GitHub Stats" 
+  />
+  <img 
+    width="49%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rikisubagja-14&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Riki Subagja Top Languages" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rikisubagja-14&theme=tokyonight" 
+    alt="Riki Subagja GitHub Contribution Graph" 
+  />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/riki-subagja-9b494a133/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" />
+  </a>
+  <a href="https://instagram.com/rikifriazka1409" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40" />
+  </a>
+  <a href="mailto:riki43733@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-
+<p align="center">
+  <i>Thanks for visiting my profile. Let's build something amazing together.</i>
+</p>
